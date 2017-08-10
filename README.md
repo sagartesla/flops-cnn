@@ -1,2 +1,2 @@
-# cntk-ssd
-This is Single Shot Multibox Detection using cntk framework
+# flops-cnn
+This is python code for calculating number of flops (floating point operations) per layer of convlolutional neural network. 
